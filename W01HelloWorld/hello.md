@@ -1,6 +1,6 @@
 # CSE 310 - Hello World Module Report
 
-Name:
+Name:Jaemok Jo
 
 ## Part 1 - Module Planning
 
@@ -18,7 +18,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
+|04/26     | 00:22    |  IM    | print("Hello World")                       |  5 Min      |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
@@ -39,11 +39,11 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
+|Are the links above public and working?                     |   Yes  |
+|Did you complete all the unique requirements for the module?|   Yes  |
 |Did you write at least 100 lines of code?                   | N/A    |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Did you fully complete the readme.md file?                  |   Yes  |
+|Did you put the readme.md file in GitHub in the top folder? |   Yes  |
 
 4. In each Sprint, you will have the opportunity to complete an optional Stretch Challenge for bonus points.  You will normally report what you did here.  There is no Stretch Challenge for Hello World.
 
@@ -51,7 +51,9 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|      5min         |
 
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+I didn't need any special strategies because this one was very basic.
