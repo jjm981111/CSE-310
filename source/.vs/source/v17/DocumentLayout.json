@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jo\\Desktop\\source\\",
+  "WorkspaceRootPath": "C:\\Users\\jo\\Desktop\\CSE 310\\source\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jo\\Desktop\\source\\repos\\hangman\\hangman\\hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jo\\Desktop\\CSE 310\\source\\repos\\hangman\\hangman\\hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repos\\hangman\\hangman\\hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "hangman.cpp",
-              "DocumentMoniker": "C:\\Users\\jo\\Desktop\\source\\repos\\hangman\\hangman\\hangman.cpp",
+              "DocumentMoniker": "C:\\Users\\jo\\Desktop\\CSE 310\\source\\repos\\hangman\\hangman\\hangman.cpp",
               "RelativeDocumentMoniker": "repos\\hangman\\hangman\\hangman.cpp",
-              "ToolTip": "C:\\Users\\jo\\Desktop\\source\\repos\\hangman\\hangman\\hangman.cpp",
+              "ToolTip": "C:\\Users\\jo\\Desktop\\CSE 310\\source\\repos\\hangman\\hangman\\hangman.cpp",
               "RelativeToolTip": "repos\\hangman\\hangman\\hangman.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-10T23:26:10.754Z",
               "EditorCaption": ""

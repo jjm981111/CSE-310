@@ -83,9 +83,9 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: https://github.com/jjm981111/CSE-310/blob/main/source/repos/hangman/hangman/hangman.cpp
+1. Put your GitHub link for your demonstration software here: https://github.com/jjm981111/CSE-310/tree/main/Sprint01
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/3th5n_CYGIg
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
@@ -107,4 +107,6 @@ This section should be filled out at the end of the Sprint and submitted.
 |-----------------|-------------------|
 |Individual Module|      10 hours     |
 
-7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint. The hardest part was setting the initial environment of C++. I took so much time to figure out how to set compiler and path since it is first time for me to deal with C++. Eventually, I just downloaded Visual Studio(not VS Code) and I could run my code.
+7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint. 
+
+The hardest part was setting the initial environment of C++. I took so much time to figure out how to set compiler and path since it is first time for me to deal with C++. Eventually, I just downloaded Visual Studio(not VS Code) and I could run my code.
