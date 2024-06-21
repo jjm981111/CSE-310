@@ -68,11 +68,11 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|   06/15  |  20:00   |  IM    | I started with making the table of expenses where the data is going to be saved and the categoires table which is foreign key of the expenses table by using MySQL.                                                                      |   3hours    |
+|   06/16  |  19:30   |  IM    | I built a html file for frontend that is going be the webpage where user can put their expenses and see the records.                                               |   2hours    |
+|   06/17  |  21:00   |  IM    | I studied how to use flask by youtube and W3schools                                                                   |   2hours    |
+|   06/19  |  20:00   |  IM    | I made a Python code and used Flask in the code to connect the MySQL database to html file                                                                        |   3hours    |
+|   06/18  |  19:00   |  TP    | I helped with webscraping which is going to be the backend of our gradplanner                                                                 |   4hours    |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
@@ -82,28 +82,41 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/jjm981111/CSE-310/tree/main/Sprint04
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: 
+
+The code = https://youtu.be/2YdQxlRqMCs
+
+The webpage = https://youtu.be/80d1AQX7iNA
+
+The SQL database = https://youtu.be/mRJyMcUaWXQ
+
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |   yes  |
+|Did you complete all the unique requirements for the module?|   yes  |
+|Did you write at least 100 lines of code?                   |   yes  |
+|Did you fully complete the readme.md file?                  |   yes  |
+|Did you put the readme.md file in GitHub in the top folder? |   yes  |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
+No Stretch Challenge
+
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+
+I didn't change it.
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|      10hours      |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+One thing that didn't work well was when I used flask in python code to connect the SQL database to html file. It had a lot of errors, and I had hard time to figure those errors out because it was first time for me to use flask.
