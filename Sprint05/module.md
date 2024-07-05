@@ -9,7 +9,7 @@ This section should be filled on the first Monday of the Sprint and submitted
 ### Section 1.1 - Module Selection
 
 1. What Sprint is this for (1-5)?
-
+5
 2. Select the Module (with a single X) that you will do this Sprint:
 
 |Module                   |Selected Module|
@@ -20,11 +20,11 @@ This section should be filled on the first Monday of the Sprint and submitted
 |GIS Mapping              |               |
 |Mobile App               |               |
 |Networking               |               |
-|SQL Relational Databases |       x       |
+|SQL Relational Databases |               |
 |Web Apps                 |               |
 |C++                      |               |
 |Java                     |               |
-|Kotlin                   |               |
+|Kotlin                   |       X       |
 |Erlang                   |               |
 |TypeScript               |               |
 |Rust                     |               |
@@ -32,11 +32,19 @@ This section should be filled on the first Monday of the Sprint and submitted
 
 3. Find the list of unique requirements for your selected module in the Module Summary in Canvas.  In some circumstances, you will need to modify the requirements based on the technology or language you selected.  For the Choose Your Own Adventure, you need to create your own requirements.  List the unique module requirements below:
 
-You must create a database for your program to use including at least one table to store data into.
+Write one or more programs in Kotlin that demonstrates some of the following:
 
-Your software must demonstrate the ability to insert, modify, delete, and retrieve (or query) data.
+Variables (mutable and immutable)
 
-This module requires more than just creating the database and determining SQL commands. You must write software that builds the SQL commands, submits them, receives the results from the database, and uses the results in some way.
+Expressions
+
+Conditionals
+
+Loops
+
+Functions
+
+Classes
 
 ### Section 1.2 - Planning
 
@@ -49,13 +57,13 @@ Youtube, Chatgpt, W3Schools
 I will do the tutorials through W3schools
 
 3. What demonstration software do you plan on submitting at the end of the Sprint (note that this can and may change)?
-Not sure yet. But probably python and MySQL.
+It would be Kotlin file
 
 4. Identify the days, times, and locations that you will work on the module.
 Thursday,Friday,Saturday,Sunday after 5pm, in STC building or at home.
 
 5. Identify both a technical risk and a behavioral risk that you antcipate may occur during this Sprint.  What is your mitgigation plan?
-I think I will have hard time to figure out how to connect the database of MySQL to Python file.
+I think I will have hard time to figure out the basics of Kotlin functions since it is first time for me.
 
 
 ## Part 2 - Time Log
@@ -68,11 +76,11 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|   06/15  |  20:00   |  IM    | I started with making the table of expenses where the data is going to be saved and the categoires table which is foreign key of the expenses table by using MySQL.                                                                      |   3hours    |
-|   06/16  |  19:30   |  IM    | I built a html file for frontend that is going be the webpage where user can put their expenses and see the records.                                               |   2hours    |
-|   06/17  |  21:00   |  IM    | I studied how to use flask by youtube and W3schools                                                                   |   2hours    |
-|   06/19  |  20:00   |  IM    | I made a Python code and used Flask in the code to connect the MySQL database to html file                                                                        |   3hours    |
-|   06/18  |  19:00   |  TP    | I helped with webscraping which is going to be the backend of our gradplanner                                                                 |   4hours    |
+|   6/29   |  17:00   |   IM   | I completed the tutorial of Kotlin in W3school                                                                    |    2hours   |
+|   6/30   |  19:00   |   IM   |  I created JavaFX project. I wrote the code for controller which is the fundamental of the program.                                                                    |    4hours   |
+|   7/01   |  20:00   |   IM   | I worte the application code which actually run the program                                                                     |    2hours   |
+|   7/02   |  20:00   |   IM   | I worte the fxml code which expresses the code on webpage.                                                                    |    2hours   |
+|   7/04   |  17:00   |   TP   | Figuring out web scraping.                 |    4hours   |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
@@ -82,30 +90,27 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: https://github.com/jjm981111/CSE-310/tree/main/Sprint04
+1. Put your GitHub link for your demonstration software here: 
 
-2. Put your YouTube link for your code walkthrough and demo video here: 
+2. Put your YouTube link for your code walkthrough and demo video here:
 
-The code = https://youtu.be/2YdQxlRqMCs
+The code: https://youtu.be/97Zh2s1x-A8
 
-The webpage = https://youtu.be/_4lHVighFP4
-
-The SQL database = https://youtu.be/_vIuXsy1qkU
-
+How the app works: https://youtu.be/JGRrfiOesGo
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |   yes  |
-|Did you complete all the unique requirements for the module?|   yes  |
-|Did you write at least 100 lines of code?                   |   yes  |
-|Did you fully complete the readme.md file?                  |   yes  |
-|Did you put the readme.md file in GitHub in the top folder? |   yes  |
+|Are the links above public and working?                     |   Yes  |
+|Did you complete all the unique requirements for the module?|   Yes  |
+|Did you write at least 100 lines of code?                   |   Yes  |
+|Did you fully complete the readme.md file?                  |   Yes  |
+|Did you put the readme.md file in GitHub in the top folder? |   Yes  |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
-No Stretch Challenge
+No stretch challenge.
 
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
 
@@ -115,8 +120,9 @@ I didn't change it.
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|      10hours      |
+|Individual Module|       10hours     |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
-One thing that didn't work well was when I used flask in python code to connect the SQL database to html file. It had a lot of errors, and I had hard time to figure those errors out because it was first time for me to use flask.
+Since JavaFX has fxml file which is similar to html file, basic knowledge of how html works helped me to do this sprint.
+

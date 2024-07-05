@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.drawing.DrawingController">
+    <top>
+        <HBox>
+            <ToggleButton text="Line" fx:id="lineButton"/>
+            <ToggleButton text="Rectangle" fx:id="rectButton"/>
+            <ToggleButton text="Circle" fx:id="circleButton"/>
+        </HBox>
+    </top>
+    <center>
+        <Canvas fx:id="canvas" width="800.0" height="600.0"/>
+    </center>
+</BorderPane>
